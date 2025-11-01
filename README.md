@@ -24,7 +24,7 @@ The result is a fast, automated tool that can "scout" any new satellite image in
 
 ## 📊 Key Results
 
-The model was highly successful and achieved a **final test accuracy of [Your Accuracy]%**. *(e.g., 95.4%)*
+The model was highly successful and achieved a **final test accuracy of 93.22%.
 
 ### 1. Classification Report & Confusion Matrix
 
