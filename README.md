@@ -8,7 +8,7 @@ This project is an advanced version of a simple land-use classifier. It is speci
 
 Finding new locations for solar farms is a slow, manual, and expensive process. It requires analysts to scan thousands of square kilometers of satellite imagery to find open, flat, non-forested, and non-residential land. This "site scouting" is a major bottleneck in renewable energy expansion.
 
-## 💡 Our AI Solution
+## 💡 My AI Solution
 
 This project solves the problem with a "Geo-AI" model. I took a powerful pre-trained CNN (`MobileNetV2`) and re-trained it on the EuroSAT satellite dataset.
 
