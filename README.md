@@ -40,6 +40,11 @@ The accuracy and loss graphs show a perfect, healthy training curve. The validat
 
 <img width="1010" height="470" alt="image" src="https://github.com/user-attachments/assets/b989191f-47b2-45d1-8468-25b274470ead" />
 
+Key insights:
+- 93% overall accuracy
+- Very strong performance on Unusable_Land
+- Minor confusion between farmland and forest
+- Model can reliably support solar farm scouting
 ``
 
 ### 3. Prediction Examples
