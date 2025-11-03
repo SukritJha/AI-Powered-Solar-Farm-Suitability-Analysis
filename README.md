@@ -31,11 +31,6 @@ The model was highly successful and achieved a **final test accuracy of 93.22%.
 The model is extremely effective at identifying `Good_for_Solar` land. The confusion matrix shows that the vast majority of its (few) errors are logical, such as confusing `Unusable_Land` (like a `PermanentCrop`) with `Bad_for_Solar` (like a `Forest`).
 
 <img width="658" height="547" alt="image" src="https://github.com/user-attachments/assets/2c9ad791-0cbf-4a8c-86c4-76663cdbc0b5" />
-Key insights:
--93% overall accuracy
--Very strong performance on Unusable_Land
--Minor confusion between farmland and forest
--Model can reliably support solar farm scouting
 
 ``
 
